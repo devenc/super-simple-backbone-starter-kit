@@ -1,4 +1,4 @@
-# Super Simple Backbone Starter Kit
+# caseflow
 
 ## Dependencies (already included)
 
